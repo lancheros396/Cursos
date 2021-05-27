@@ -1,0 +1,2 @@
+alert("omar es gay");
+
